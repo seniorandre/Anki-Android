@@ -41,12 +41,12 @@
 <resources>
   <string name="statistics_young">Начатые</string>
   <string name="statistics_mature">Закрепленные</string>
-  <string name="statistics_young_and_learn">Начатые+Изучаемые</string>
+  <string name="statistics_young_and_learn">Начатые+Повторение</string>
   <string name="statistics_unlearned">Не изучались</string>
   <string name="statistics_suspended_and_buried">Скрыты и отложены</string>
   <string name="statistics_relearn">Переучивание</string>
-  <string name="statistics_learn">Изучаемые</string>
-  <string name="statistics_cram">Повторение</string>
+  <string name="statistics_learn">Повторение</string>
+  <string name="statistics_cram">Зубрение</string>
   <string name="stats_cards">Карт</string>
   <string name="stats_cards_intervals">Карты с заданным интервалом</string>
   <string name="stats_cumulative_cards">Общее количество карт</string>
@@ -67,13 +67,13 @@
   <string name="stats_time_of_day">Время суток</string>
   <string name="stats_day_of_week">День недели</string>
   <string formatted="false" name="stats_percentage_correct">Правильно %</string>
-  <string name="stats_reviews">Просмотры</string>
+  <string name="stats_reviews">Ответы</string>
   <string name="stats_answer_type">Тип ответа</string>
-  <string name="stats_today_again_count">Повторных просмотров: &lt;b&gt;%d&lt;/b&gt;</string>
+  <string name="stats_today_again_count">Количество возвратов: &lt;b&gt;%d&lt;/b&gt;</string>
   <string name="stats_today_correct_count">(&lt;b&gt;%.1f%%&lt;/b&gt; правильно)</string>
-  <string name="stats_today_type_breakdown">На изучении: &lt;b&gt;%1$s&lt;/b&gt;, Повторение: &lt;b&gt;%2$s&lt;/b&gt;, Переучивалось: &lt;b&gt;%3$s&lt;/b&gt;, Фильтровано: &lt;b&gt;%4$s&lt;/b&gt;</string>
-  <string name="stats_today_mature_cards">Правильных ответов в закрепленных картах: %1$d/%2$d (%3$.1f%%)</string>
-  <string name="stats_today_no_mature_cards">В закрепленных ни одной карты.</string>
+  <string name="stats_today_type_breakdown">Повторение: &lt;b&gt;%1$s&lt;/b&gt;, Начатые: &lt;b&gt;%2$s&lt;/b&gt;, Переучивание: &lt;b&gt;%3$s&lt;/b&gt;, Зубрение: &lt;b&gt;%4$s&lt;/b&gt;</string>
+  <string name="stats_today_mature_cards">Правильных ответов в Закрепленных картах: %1$d/%2$d (%3$.1f%%)</string>
+  <string name="stats_today_no_mature_cards">В Закрепленных ни одной карты.</string>
   <string name="stats_overview_forecast_total">В общем: &lt;b&gt;%1$d&lt;/b&gt; просм.</string>
   <string name="stats_overview_forecast_average">В среднем: &lt;b&gt;%1$.1f&lt;/b&gt; просм./день</string>
   <string name="stats_overview_forecast_due_tomorrow">На завтра: &lt;b&gt;%1$d&lt;/b&gt;</string>
@@ -84,7 +84,7 @@
   <string name="stats_overview_time_per_day_studydays">В среднем обучение: &lt;b&gt;%1$.1f&lt;/b&gt; минут/день</string>
   <string name="stats_overview_time_per_day_all">Если учить каждый день:  &lt;b&gt;%1$.1f&lt;/b&gt; минут/день</string>
   <string name="stats_overview_new_cards_per_day">В среднем: &lt;b&gt;%1$.1f&lt;/b&gt; карт/день</string>
-  <string name="stats_overview_total_new_cards">В общем: &lt;b&gt;%1$d&lt;/b&gt; карт/день</string>
+  <string name="stats_overview_total_new_cards">В общем: &lt;b&gt;%1$d&lt;/b&gt; карт</string>
   <string name="stats_overview_average_interval">"Средний интервал: "</string>
   <string name="stats_overview_longest_interval">"Самый длинный интервал: "</string>
   <string name="stats_overview_years">&lt;b&gt;%1$.1f&lt;/b&gt; лет</string>

@@ -94,7 +94,7 @@
   <!-- Custom study options -->
   <string name="custom_study_increase_new_limit">Добавить на сегодня новые карты</string>
   <string name="custom_study_increase_review_limit">Добавить на сегодня карты для повторения</string>
-  <string name="custom_study_review_forgotten">Отобрать забытые карты</string>
+  <string name="custom_study_review_forgotten">Отобрать забываемые карты</string>
   <string name="custom_study_review_ahead">Отобрать вперёд</string>
   <string name="custom_study_random_selection">Отобрать случайные карты</string>
   <string name="custom_study_preview_new">Отобрать новые карты</string>
@@ -176,7 +176,9 @@
   <string name="select_tts">Язык синтезированной речи</string>
   <string name="custom_study">Дополнительное обучение</string>
   <string name="more_options">Еще</string>
-  <string name="dyn_deck_desc">Это специальная колода для изучения вне нормального расписания. Карты будут автоматически возвращены в их изначальную колоду после их просмотра. Удаление этой колоды из списка колод возвратит все оставшиеся карты в их изначальную колоду.</string>
+  <string name="dyn_deck_desc">Это специальная колода для натаскивания (Зубрения) вне нормального расписания.
+    Карты будут автоматически возвращены в их изначальную колоду после их просмотра.
+    Удаление этой колоды из списка колод возвратит все оставшиеся карты в их изначальную колоду.</string>
   <string name="steps_error">Шаги должны быть числами больше 0</string>
   <string name="steps_min_error">Требуется по крайней мере один шаг</string>
   <string name="sched_end">(конец)</string>

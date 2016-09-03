@@ -126,10 +126,10 @@
   <string name="time_quantity_months">%.1f м</string>
   <string name="time_quantity_years">%.1f г</string>
   <!-- or "%.1f a" -->
-  <string name="rebuild_cram_deck">Перестроение колоды для повторения.\nПожалуйста, подождите...</string>
+  <string name="rebuild_cram_deck">Перестроение колоды для Зубрения.\nПожалуйста, подождите...</string>
   <string name="rebuild_cram_label">Перестроить</string>
   <string name="empty_cram_label">Очистить</string>
-  <string name="empty_cram_deck">Очистка колоды для повторения.\nПожалуйста, подождите...</string>
+  <string name="empty_cram_deck">Очистка колоды для Зубрения.\nПожалуйста, подождите...</string>
   <string name="custom_study_deck_name">Специальная учебная сессия</string>
   <string name="custom_study_deck_exists">Пожалуйста, сначала переименуйте существующие специальные колоды.</string>
   <string name="empty_deck">Эта колода пуста</string>
