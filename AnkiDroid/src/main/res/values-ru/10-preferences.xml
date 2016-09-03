@@ -210,7 +210,7 @@
     <item quantity="other">конфигурация \"%1$s\" используется %2$d (раз)</item>
   </plurals>
   <string name="deck_conf_new_cards">Новые карты</string>
-  <string name="deck_conf_rev_cards">Повторы</string>
+  <string name="deck_conf_rev_cards">Повторение</string>
   <string name="deck_conf_lps_cards">Ошибки</string>
   <string name="deck_conf_general">Общие</string>
   <string name="deck_conf_steps">Шаги (в минутах)</string>

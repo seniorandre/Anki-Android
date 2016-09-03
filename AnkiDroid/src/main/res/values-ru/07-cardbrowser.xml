@@ -41,19 +41,19 @@
 <resources>
   <!-- CardBrowser -->
   <plurals name="card_browser_subtitle">
-    <item quantity="one">Показана %d карта</item>
-    <item quantity="few">Показано %d карты</item>
-    <item quantity="many">Показано %d карт</item>
-    <item quantity="other">Показано %d карт</item>
+    <item quantity="one">Отобрана %d заметка</item>
+    <item quantity="few">Отобрана %d заметки</item>
+    <item quantity="many">Отобрана %d заметок</item>
+    <item quantity="other">Отобрана %d заметок</item>
   </plurals>
   <string name="card_browser_all_decks">Все колоды</string>
-  <string name="card_browser_delete_card">Удалить карту</string>
-  <string name="card_browser_suspend_card">Скрыть карту</string>
+  <string name="card_browser_delete_card">Удалить заметку</string>
+  <string name="card_browser_suspend_card">Скрыть заметку</string>
   <string name="card_browser_unsuspend_card">Вернуть из скрытых</string>
-  <string name="card_browser_mark_card">Отметить карту</string>
+  <string name="card_browser_mark_card">Отметить заметку</string>
   <string name="card_browser_unmark_card">Снять отметку</string>
-  <string name="delete_card_title">Удалить карту?</string>
-  <string name="delete_card_message">Действительно удалить все найденные карты?\nПоиск по фильтру: %s</string>
+  <string name="delete_card_title">Удалить заметку?</string>
+  <string name="delete_card_message">Действительно удалить все найденные заметки?\nПоиск по фильтру: %s</string>
   <string name="card_browser_show_marked">Фильтр - Отмеченные</string>
   <string name="card_browser_show_suspended">Фильтр - Скрытые</string>
   <string name="card_browser_search_by_tag">Фильтр по меткам</string>
