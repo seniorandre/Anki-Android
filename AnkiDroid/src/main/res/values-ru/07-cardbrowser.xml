@@ -56,6 +56,8 @@
   <string name="delete_card_message">Действительно удалить все найденные заметки?\nПоиск по фильтру: %s</string>
   <string name="card_browser_show_marked">Фильтр - Отмеченные</string>
   <string name="card_browser_show_suspended">Фильтр - Скрытые</string>
+  <string name="card_browser_show_all">Фильтр - Очистить</string>
+  <string name="card_browser_rename_tag">Переименовать метку</string>
   <string name="card_browser_search_by_tag">Фильтр по меткам</string>
   <string name="card_browser_tags_shown">Метки: %1$s</string>
   <string name="card_browser_list_my_searches">Мои поисковые запросы</string>
@@ -68,10 +70,14 @@
   <string name="card_browser_change_display_order">Сортировка...</string>
   <string name="card_browser_change_display_order_title">Сортировка</string>
   <string name="card_browser_change_display_order_reverse">Выберите поле, чтобы помениять сортировку.</string>
+  <string name="card_browser_new_tags_info">Выберите или добавьте новую метку</string>
+  <string name="card_browser_confirm_rename_tag">Вы действительно хотите переименовать метку \"%1$s\" в метку \"%2$s\" ? Эта операция не может быть отменена.</string>
   <string name="card_details_question">Вопрос</string>
   <string name="card_details_answer">Ответ</string>
   <string name="card_details_due">Повтор</string>
   <string name="card_details_tags">Метки</string>
+  <string name="card_details_tag_select">Выберите метку</string>
+  <string name="card_details_new_tag_select">Выберите новую метку</string>
   <string name="card_browser_filtering_cards">К картам применяется фильтр&#8230;\nНажмите кнопку Назад чтобы отменить</string>
   <string-array name="card_browser_order_labels">
     <item>Без сортировки (быстро)</item>
